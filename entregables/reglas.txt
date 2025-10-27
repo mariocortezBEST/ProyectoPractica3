@@ -1,0 +1,3 @@
+Los documentos una ves completado el proceso de revisión deberán moverse a este directorio para la revisión por parte del docente, 
+de esta manera facilitamos su trabajo ya que solo vera lo que tiene que evaluar si cumple con los lineamientos o si merece una 
+nueva modificación, en caso el documento deba recibir nuevas modificaciones deberá moverse nuevamente al área de revisión_entregables.
